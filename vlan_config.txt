@@ -4,3 +4,5 @@ vlan 20
     name Voice
 vlan 30 
     name Web
+vlan 40
+    name App
