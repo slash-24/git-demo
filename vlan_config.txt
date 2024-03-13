@@ -1,0 +1,6 @@
+vlan 10
+    name Management
+vlan 20
+    name Voice
+vlan 30 
+    name Web
